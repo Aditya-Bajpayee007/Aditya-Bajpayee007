@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on building intuitive, performant, and scalable web applications.
 <br><br>
-👯 Always eager to collaborate on impactful open-source projects or innovative ideas that challenge my skills and help me grow as a developer.
+👯 I’m looking to collaborate on any open-source project to improve my skills and contribute positively to its development..
 <br><br>
 💬 Ask me about Full-stack development, web technologies, or anything related to software engineering.
 <br><br>
