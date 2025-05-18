@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Bajpayee</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Full-stack developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Developing full-stack web applications using modern technologies and frameworks.
+🔭 I’m currently working on building intuitive, performant, and scalable web applications.
 <br><br>
-👯 I’m looking to collaborate on any open-source project to improve my skills and contribute positively to its development.
+👯 Always eager to collaborate on impactful open-source projects or innovative ideas that challenge my skills and help me grow as a developer.
 <br><br>
 💬 Ask me about Full-stack development, web technologies, or anything related to software engineering.
 <br><br>
